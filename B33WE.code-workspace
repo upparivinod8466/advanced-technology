@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\B33WE"
+		},
+		{
+			"path": "..\\python"
+		}
+	
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "B33WE",
+		"liveServer.settings.CustomBrowser": "chrome",
+		"liveServer.settings.file": "C:\\Users\\ADMIN\\Desktop\\B33WE",
+		"liveServer.settings.AdvanceCustomBrowserCmdLine": ""
+	}
+}
